@@ -1,6 +1,6 @@
 # twitter_giveaway_bot
 
-this is a python based twitter bot built using the twitter api v2 and tweepy library trying its luck with the nft and crypto giveaways. it searches for tweets with keywords like nft/crypto,airdrop/giveaways and likes,comments and retweets them. the data is saved into a csv to help later for improvements
+this is a python based twitter bot built using the twitter api v2 and tweepy library trying its luck with the nft and crypto giveaways. it searches for tweets with keywords like nft/crypto,airdrop/giveaways and likes,comments and retweets them. the data is saved into a csv to help for improvements later.
 
 ## requirements
 1. create a twitter developer account from their portal and make sure you give the read and write access to the app using the user authentication settings.
